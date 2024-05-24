@@ -1,4 +1,5 @@
 #include "ybadge.h"
+void Y_Badge_Intro();
 
 int main() {
   // This function should call ONE of the functions below.
@@ -7,6 +8,7 @@ int main() {
 
   test_all_features();
   // badge_activity();
+  // Y_Badge_Intro();
 
   while (1)
     ;
