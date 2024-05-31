@@ -1,8 +1,9 @@
-#include "ybadge.h"
+#include "yboard.h"
 
 void led_exploration();
 void loop_exploration();
 void button_exploration();
+void potentiometer_exploration();
 void final_challenge();
 
 void Y_Badge_Intro() {
@@ -13,12 +14,13 @@ void Y_Badge_Intro() {
   led_exploration();
   // loop_exploration();
   // button_exploration();
+  // potentiometer_exploration();
   // final_challenge();
 }
 
 void led_exploration() {
   // Add your code here for Part 1
-
+  
 }
 
 void loop_exploration() {
@@ -29,6 +31,11 @@ void loop_exploration() {
 void button_exploration() {
   // Add your code here for Part 3
   
+}
+
+void potentiometer_exploration(){
+  // Add your code here for the Extra 
+
 }
 
 void final_challenge() {

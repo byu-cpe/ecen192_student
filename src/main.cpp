@@ -1,4 +1,6 @@
-#include "ybadge.h"
+// #include "yboard.h"
+
+void test_all_features();
 void Y_Badge_Intro();
 
 int main() {
@@ -7,7 +9,6 @@ int main() {
   // you want to call is uncommented.
 
   test_all_features();
-  // badge_activity();
   // Y_Badge_Intro();
 
   while (1)
